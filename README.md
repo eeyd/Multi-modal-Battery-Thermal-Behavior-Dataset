@@ -5,12 +5,11 @@ Multi-modal Battery Thermal Behavior Dataset for the MDASL
 Multi-modal Battery Thermal Behavior Dataset
 
 2. Multi-modal Domain Adaption Self-Learning Algorithm
-3. 
+
+## The SEI decomposition
 ![image](https://github.com/eeyd/Multi-modal-Battery-Thermal-Behavior-Dataset/blob/main/figure/Figure1.png)
 
-
-
-## Experimental environment
+## The data collection experimental environment
 ![image](https://github.com/eeyd/Multi-modal-Battery-Thermal-Behavior-Dataset/blob/main/figure/Figure3.png)
 
 ## Experiment training curve
@@ -18,5 +17,5 @@ Multi-modal Battery Thermal Behavior Dataset
 
 
 ## Experiment result
-
+![image](https://github.com/eeyd/Multi-modal-Battery-Thermal-Behavior-Dataset/blob/main/figure/Figure10.png)
 
