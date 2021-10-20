@@ -8,4 +8,11 @@ Multi-modal Battery Thermal Behavior Dataset
 
 
 ![image](https://github.com/eeyd/Multi-modal-Battery-Thermal-Behavior-Dataset/blob/main/figure/Figure3.png)
-![image](https://github.com/eeyd/Multi-modal-Battery-Thermal-Behavior-Dataset/blob/main/figure/Figure4.png)
+
+
+![image](https://github.com/eeyd/Multi-modal-Battery-Thermal-Behavior-Dataset/blob/main/figure/Figure12.png)
+![image](https://github.com/eeyd/Multi-modal-Battery-Thermal-Behavior-Dataset/blob/main/figure/Figure13.png)
+![image](https://github.com/eeyd/Multi-modal-Battery-Thermal-Behavior-Dataset/blob/main/figure/Figure14.png)
+
+
+
