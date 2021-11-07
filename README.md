@@ -10,7 +10,7 @@ Multi-modal Battery Thermal Behavior Dataset
    The Raw data/video of thermal camera url: https://pan.baidu.com/s/1rMrDLVE-TVPSZX_KkQFnpg
    Password is 4b3o
    
-   The full dataset is uploading and coming soon.
+   The full dataset is being uploaded and coming soon.
 
 2. Multi-modal Domain Adaption Self-Learning Algorithm
 
