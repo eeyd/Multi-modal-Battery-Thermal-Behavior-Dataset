@@ -7,6 +7,7 @@ Multi-modal Battery Thermal Behavior Dataset
    RAR Dataset Package url: https://pan.baidu.com/s/1C2JFs_D0yx0-_urAlhSM8g 
    Password: rjh3
 
+   The full dataset is coming soon.
 
 2. Multi-modal Domain Adaption Self-Learning Algorithm
 
