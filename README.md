@@ -4,6 +4,9 @@ Multi-modal Battery Thermal Behavior Dataset for the MDASL
 1. Multi-modal dataset
 Multi-modal Battery Thermal Behavior Dataset
 
+RAR Package BaiduPan: https://pan.baidu.com/s/1C2JFs_D0yx0-_urAlhSM8g, password:rjh3
+
+
 2. Multi-modal Domain Adaption Self-Learning Algorithm
 
 ## The SEI Decomposition Process
